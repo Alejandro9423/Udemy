@@ -1,0 +1,7 @@
+{
+  "name": "UdemyJAD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
